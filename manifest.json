@@ -13,7 +13,7 @@
         "*://*.mozilla.org/*"
       ],
       "js": [
-        "borderify.js"
+        "borderfy.js"
       ]
     }
   ]
